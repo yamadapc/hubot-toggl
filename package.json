@@ -1,0 +1,25 @@
+{
+  "name": "hubot-toggl",
+  "version": "1.0.0",
+  "description": "A Hubot script to add Toggl integration to your company's chat",
+  "main": "lib/index.js",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "hubot-script",
+    "toggl",
+    "irc",
+    "slack",
+    "bot",
+    "time-tracking"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Tacla Yamada <tacla.yamada@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6"
+  }
+}
