@@ -5,12 +5,12 @@ A Hubot script to add Toggl integration to your company's chat
 
 ## Commands
 ```
-toggl setup - Sets-up an user's account with Toggl
-toggl start [description] - Starts a time-entry
-toggl stop - Stops the current time-entry
-toggl current - Prints the current time-entry
-toggl whoami - Prints the current authenticated Toggl user
-toggl projects - Prints the 5 most recently modified projects
+hubot toggl setup - Sets-up an user's account with Toggl
+hubot toggl start [description] - Starts a time-entry
+hubot toggl stop - Stops the current time-entry
+hubot toggl current - Prints the current time-entry
+hubot toggl whoami - Prints the current authenticated Toggl user
+hubot toggl projects - Prints the 5 most recently modified projects
 ```
 
 ## License
